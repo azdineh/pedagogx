@@ -1,0 +1,7 @@
+{
+  "name": "pedagogx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
